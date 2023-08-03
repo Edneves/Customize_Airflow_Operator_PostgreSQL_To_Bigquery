@@ -28,8 +28,8 @@ também é possível limitar a quantidades de linhas simultâneas a serem inseri
         
     )
 
- "listColumns" = lista das colunas que irá compor o dataframe;
- "queryTable" = Consulta que será executada no database;
+ 1."listColumns" = lista das colunas que irá compor o dataframe;
+ 2. "queryTable" = Consulta que será executada no database;
  "granularity" = Caso queira inserir os dados por partes no BigQuery, sinalizar "True";
  "nr_rows" = Limita a quantidade de linhas que será composto o dataframe, somente se "granularity=True";
  "column_movto" = Coluna destinada ao controle de atualização no bigquery, estará em Timestamp;
