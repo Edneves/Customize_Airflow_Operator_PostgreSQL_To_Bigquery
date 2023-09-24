@@ -38,7 +38,7 @@ também é possível limitar a quantidades de linhas simultâneas a serem inseri
 8. "project_id" = Id do projeto na GCP;
 
 
-- Stacks:
+- Tools used:
 1. Python
 2. Airflow
 3. PostgreSQL
