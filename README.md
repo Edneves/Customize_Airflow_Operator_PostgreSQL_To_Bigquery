@@ -36,3 +36,10 @@ também é possível limitar a quantidades de linhas simultâneas a serem inseri
 6. "credential" = Conta de serviço destinada a autenticação no ambiente GCP;
 7. "table_id" = Nome da tabela no BigQuery;
 8. "project_id" = Id do projeto na GCP;
+
+
+- Stacks:
+1. Python
+2. Airflow
+3. PostgreSQL
+4. BigQuery
